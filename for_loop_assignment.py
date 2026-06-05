@@ -54,7 +54,6 @@ print("Reversed list:", reversed_lst)
 
 
 
-
 # Question 9
 lst = [1, 2, 3, 4]
 
